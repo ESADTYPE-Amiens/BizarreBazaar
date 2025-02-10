@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="471"/>
+  <unicode hex="004D"/>
+  <image fileName="M_1_lw.tif" xScale="1.4652841395666572" xyScale="0.0040574776543188685" yxScale="-0.0040574776543188685" yScale="1.4652841395666572" xOffset="-65.91113573162737" yOffset="-205.54969620005343"/>
+  <outline>
+    <contour>
+      <point x="109" y="0" type="line"/>
+      <point x="109" y="557" type="line"/>
+      <point x="193" y="415" type="line"/>
+      <point x="288" y="581" type="line"/>
+      <point x="288" y="0" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="431" y="750" type="line"/>
+      <point x="299" y="750" type="line"/>
+      <point x="218" y="600" type="line"/>
+      <point x="134" y="750" type="line"/>
+      <point x="40" y="750" type="line"/>
+      <point x="40" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

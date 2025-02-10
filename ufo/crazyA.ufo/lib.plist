@@ -214,6 +214,18 @@
       <string>quoteleft</string>
       <string>quoteright</string>
       <string>minus</string>
+      <string>four.001</string>
+      <string>four.002</string>
+      <string>A.001</string>
+      <string>A.002</string>
+      <string>G.001</string>
+      <string>G.002</string>
+      <string>M.001</string>
+      <string>M.002</string>
+      <string>S.001</string>
+      <string>S.002</string>
+      <string>Y.001</string>
+      <string>Y.002</string>
     </array>
   </dict>
 </plist>
