@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="520"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="485" y="150" type="line"/>
+      <point x="485" y="300" type="line"/>
+      <point x="335" y="300" type="line"/>
+      <point x="335" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="485" y="150" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="635" y="0" type="line"/>
+      <point x="635" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="450" type="line"/>
+      <point x="185" y="300" type="line"/>
+      <point x="335" y="300" type="line"/>
+      <point x="335" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="150" type="line"/>
+      <point x="35" y="150" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="335" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="150" type="line"/>
+      <point x="35" y="600" type="line"/>
+      <point x="-115" y="600" type="line"/>
+      <point x="-115" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="750" type="line"/>
+      <point x="35" y="600" type="line"/>
+      <point x="485" y="600" type="line"/>
+      <point x="485" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="485" y="600" type="line"/>
+      <point x="485" y="300" type="line"/>
+      <point x="635" y="300" type="line"/>
+      <point x="635" y="600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 15:54:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>
