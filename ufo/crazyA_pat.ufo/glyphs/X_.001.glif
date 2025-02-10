@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X.001" format="2">
+	<advance width="770"/>
+	<outline>
+		<contour>
+			<point x="10" y="750" type="line"/>
+			<point x="10" y="600" type="line"/>
+			<point x="160" y="600" type="line"/>
+			<point x="160" y="750" type="line"/>
+		</contour>
+		<contour>
+			<point x="609" y="750" type="line"/>
+			<point x="609" y="600" type="line"/>
+			<point x="760" y="600" type="line"/>
+			<point x="760" y="750" type="line"/>
+		</contour>
+		<contour>
+			<point x="10" y="150" type="line"/>
+			<point x="10" y="0" type="line"/>
+			<point x="160" y="0" type="line"/>
+			<point x="160" y="150" type="line"/>
+		</contour>
+		<contour>
+			<point x="609" y="150" type="line"/>
+			<point x="609" y="0" type="line"/>
+			<point x="760" y="0" type="line"/>
+			<point x="760" y="150" type="line"/>
+		</contour>
+		<contour>
+			<point x="160" y="300" type="line"/>
+			<point x="160" y="150" type="line"/>
+			<point x="309" y="150" type="line"/>
+			<point x="309" y="300" type="line"/>
+		</contour>
+		<contour>
+			<point x="160" y="600" type="line"/>
+			<point x="160" y="450" type="line"/>
+			<point x="309" y="450" type="line"/>
+			<point x="309" y="600" type="line"/>
+		</contour>
+		<contour>
+			<point x="460" y="300" type="line"/>
+			<point x="460" y="150" type="line"/>
+			<point x="609" y="150" type="line"/>
+			<point x="609" y="300" type="line"/>
+		</contour>
+		<contour>
+			<point x="460" y="600" type="line"/>
+			<point x="460" y="450" type="line"/>
+			<point x="609" y="450" type="line"/>
+			<point x="609" y="600" type="line"/>
+		</contour>
+		<contour>
+			<point x="309" y="450" type="line"/>
+			<point x="309" y="300" type="line"/>
+			<point x="460" y="300" type="line"/>
+			<point x="460" y="450" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2025-02-10 16:05:40 +0000</string>
+		</dict>
+	</lib>
+</glyph>
