@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="580"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="39" y="607" type="curve"/>
+      <point x="97" y="744" type="line"/>
+      <point x="311" y="773"/>
+      <point x="429" y="676"/>
+      <point x="580" y="704" type="curve"/>
+      <point x="522" y="567" type="line"/>
+      <point x="379" y="538"/>
+      <point x="223" y="636"/>
+    </contour>
+    <contour>
+      <point x="388" y="312" type="line"/>
+      <point x="388" y="393"/>
+      <point x="313" y="483"/>
+      <point x="313" y="564" type="curve"/>
+      <point x="176" y="469" type="line"/>
+      <point x="176" y="388"/>
+      <point x="251" y="298"/>
+      <point x="251" y="217" type="curve"/>
+    </contour>
+    <contour>
+      <point x="84" y="225" type="line"/>
+      <point x="273" y="225"/>
+      <point x="316" y="129"/>
+      <point x="526" y="131" type="curve"/>
+      <point x="437" y="0" type="line"/>
+      <point x="322" y="0"/>
+      <point x="123" y="89"/>
+      <point x="0" y="89" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 15:12:25 +0000</string>
+    </dict>
+  </lib>
+</glyph>
