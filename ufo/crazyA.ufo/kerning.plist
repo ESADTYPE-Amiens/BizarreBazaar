@@ -13,6 +13,8 @@
   <dict>
     <key>V</key>
     <integer>-139</integer>
+    <key>W</key>
+    <integer>-86</integer>
   </dict>
   <key>A.002</key>
   <dict>
@@ -23,6 +25,8 @@
   <dict>
     <key>V</key>
     <integer>-28</integer>
+    <key>W.001</key>
+    <integer>-73</integer>
   </dict>
   <key>B</key>
   <dict>
@@ -171,6 +175,8 @@
   </dict>
   <key>W</key>
   <dict>
+    <key>A.001</key>
+    <integer>-90</integer>
     <key>C</key>
     <integer>-24</integer>
     <key>S</key>
@@ -185,6 +191,11 @@
     <integer>-80</integer>
     <key>semicolon</key>
     <integer>-53</integer>
+  </dict>
+  <key>W.001</key>
+  <dict>
+    <key>A.003</key>
+    <integer>-110</integer>
   </dict>
   <key>Y</key>
   <dict>
