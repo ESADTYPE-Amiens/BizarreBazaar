@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="2">
+  <advance width="500"/>
+  <unicode hex="006B"/>
+  <image fileName="K_01-yr.png" xScale="1.5008127693120334" yScale="1.5008127693120334" xOffset="-166.45422706527668" yOffset="-262.97253767917323"/>
+  <outline>
+  </outline>
+</glyph>
