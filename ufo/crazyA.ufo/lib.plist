@@ -256,6 +256,54 @@
       <string>seven.001</string>
       <string>one.002</string>
       <string>seven.002</string>
+      <string>zero.001</string>
+      <string>zero.002</string>
+      <string>zero.003</string>
+      <string>six.001</string>
+      <string>six.002</string>
+      <string>C.001</string>
+      <string>C.002</string>
+      <string>C.003</string>
+      <string>I.001</string>
+      <string>I.002</string>
+      <string>I.003</string>
+      <string>O.001</string>
+      <string>O.002</string>
+      <string>O.003</string>
+      <string>O.004</string>
+      <string>U.001</string>
+      <string>U.002</string>
+      <string>U.003</string>
+      <string>B.001</string>
+      <string>B.002</string>
+      <string>H.001</string>
+      <string>N.001</string>
+      <string>T.001</string>
+      <string>T.002</string>
+      <string>Z.001</string>
+      <string>Z.002</string>
+      <string>H.002</string>
+      <string>Z.003</string>
+      <string>five.001</string>
+      <string>five.002</string>
+      <string>five.003</string>
+      <string>exclam.copy_1</string>
+      <string>asterisk.copy_1</string>
+      <string>comma.copy_1</string>
+      <string>period.copy_1</string>
+      <string>colon.copy_1</string>
+      <string>semicolon.copy_1</string>
+      <string>question.copy_1</string>
+      <string>exclamdown.copy_1</string>
+      <string>periodcentered.copy_1</string>
+      <string>questiondown.copy_1</string>
+      <string>ellipsis</string>
+      <string>bullet</string>
+      <string>comma.001</string>
+      <string>semicolon.001</string>
+      <string>semicolon.002</string>
+      <string>exclam.001</string>
+      <string>question.001</string>
     </array>
   </dict>
 </plist>
