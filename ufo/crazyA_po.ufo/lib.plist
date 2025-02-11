@@ -11,10 +11,6 @@
 			<string>characterSet</string>
 		</dict>
 	</array>
-	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array>
-		<string>!/exclam.001 #*,/comma.001 .//:;/semicolon.001/semicolon.002 ?/question.001/backslash ¡·¿…•</string>
-	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMasterID</key>
