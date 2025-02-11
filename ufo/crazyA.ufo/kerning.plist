@@ -2,6 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>A</key>
+  <dict>
+    <key>Q</key>
+    <integer>-14</integer>
+    <key>quotesingle</key>
+    <integer>-20</integer>
+  </dict>
   <key>A.001</key>
   <dict>
     <key>V</key>
@@ -170,6 +177,10 @@
   <dict>
     <key>A.001</key>
     <integer>-90</integer>
+    <key>A.002</key>
+    <integer>-102</integer>
+    <key>A.003</key>
+    <integer>-121</integer>
     <key>C</key>
     <integer>-24</integer>
     <key>S</key>
@@ -187,8 +198,17 @@
   </dict>
   <key>W.001</key>
   <dict>
+    <key>A.001</key>
+    <integer>-121</integer>
+    <key>A.002</key>
+    <integer>-127</integer>
     <key>A.003</key>
-    <integer>-110</integer>
+    <integer>-155</integer>
+  </dict>
+  <key>W.002</key>
+  <dict>
+    <key>A.002</key>
+    <integer>38</integer>
   </dict>
   <key>Y</key>
   <dict>
