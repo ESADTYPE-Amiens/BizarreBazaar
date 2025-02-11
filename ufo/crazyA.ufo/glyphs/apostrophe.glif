@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophe" format="2">
+  <advance width="179"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="0" y="466" type="curve"/>
+      <point x="73" y="460" type="line"/>
+      <point x="159" y="750" type="line"/>
+      <point x="49" y="750" type="line"/>
+      <point x="69" y="647"/>
+      <point x="50" y="551"/>
+    </contour>
+  </outline>
+</glyph>

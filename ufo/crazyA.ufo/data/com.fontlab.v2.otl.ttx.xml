@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OTLayout>
+<GSUB>
+  <Version value="1.0"/>
+  <ScriptList>
+    <!-- ScriptCount=2 -->
+    <ScriptRecord index="0">
+      <ScriptTag value="DFLT"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=1 -->
+          <FeatureIndex index="0" value="0"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+    <ScriptRecord index="1">
+      <ScriptTag value="latn"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=1 -->
+          <FeatureIndex index="0" value="1"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+  </ScriptList>
+  <FeatureList>
+    <!-- FeatureCount=2 -->
+    <FeatureRecord index="0">
+      <FeatureTag value="rand"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="1">
+      <FeatureTag value="rand"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+  </FeatureList>
+  <LookupList>
+    <!-- LookupCount=1 -->
+    <Lookup index="0">
+      <LookupType value="3"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <AlternateSubst index="0" Format="1">
+        <AlternateSet glyph="exclam">
+          <Alternate glyph="exclam"/>
+          <Alternate glyph="exclam.001"/>
+        </AlternateSet>
+        <AlternateSet glyph="comma">
+          <Alternate glyph="comma"/>
+          <Alternate glyph="comma.001"/>
+        </AlternateSet>
+        <AlternateSet glyph="zero">
+          <Alternate glyph="zero"/>
+          <Alternate glyph="zero.001"/>
+          <Alternate glyph="zero.002"/>
+          <Alternate glyph="zero.003"/>
+        </AlternateSet>
+        <AlternateSet glyph="one">
+          <Alternate glyph="one"/>
+          <Alternate glyph="one.001"/>
+          <Alternate glyph="one.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="two">
+          <Alternate glyph="two"/>
+          <Alternate glyph="two.001"/>
+          <Alternate glyph="two.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="three">
+          <Alternate glyph="three"/>
+          <Alternate glyph="three.001"/>
+          <Alternate glyph="three.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="four">
+          <Alternate glyph="four"/>
+          <Alternate glyph="four.001"/>
+          <Alternate glyph="four.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="five">
+          <Alternate glyph="five"/>
+          <Alternate glyph="five.001"/>
+          <Alternate glyph="five.002"/>
+          <Alternate glyph="five.003"/>
+        </AlternateSet>
+        <AlternateSet glyph="six">
+          <Alternate glyph="six"/>
+          <Alternate glyph="six.001"/>
+          <Alternate glyph="six.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="seven">
+          <Alternate glyph="seven"/>
+          <Alternate glyph="seven.001"/>
+          <Alternate glyph="seven.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="eight">
+          <Alternate glyph="eight"/>
+          <Alternate glyph="eight.001"/>
+          <Alternate glyph="eight.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="nine">
+          <Alternate glyph="nine"/>
+          <Alternate glyph="nine.001"/>
+          <Alternate glyph="nine.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="semicolon">
+          <Alternate glyph="semicolon"/>
+          <Alternate glyph="semicolon.001"/>
+          <Alternate glyph="semicolon.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="question">
+          <Alternate glyph="question"/>
+          <Alternate glyph="question.001"/>
+        </AlternateSet>
+        <AlternateSet glyph="A">
+          <Alternate glyph="A"/>
+          <Alternate glyph="A.001"/>
+          <Alternate glyph="A.002"/>
+          <Alternate glyph="A.003"/>
+        </AlternateSet>
+        <AlternateSet glyph="B">
+          <Alternate glyph="B"/>
+          <Alternate glyph="B.001"/>
+          <Alternate glyph="B.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="C">
+          <Alternate glyph="C"/>
+          <Alternate glyph="C.001"/>
+          <Alternate glyph="C.002"/>
+          <Alternate glyph="C.003"/>
+        </AlternateSet>
+        <AlternateSet glyph="D">
+          <Alternate glyph="D"/>
+          <Alternate glyph="D.001"/>
+          <Alternate glyph="D.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="E">
+          <Alternate glyph="E"/>
+          <Alternate glyph="E.001"/>
+          <Alternate glyph="E.002"/>
+          <Alternate glyph="E.003"/>
+          <Alternate glyph="E.004"/>
+        </AlternateSet>
+        <AlternateSet glyph="F">
+          <Alternate glyph="F"/>
+          <Alternate glyph="F.001"/>
+          <Alternate glyph="F.002"/>
+          <Alternate glyph="F.003"/>
+        </AlternateSet>
+        <AlternateSet glyph="G">
+          <Alternate glyph="G"/>
+          <Alternate glyph="G.001"/>
+          <Alternate glyph="G.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="H">
+          <Alternate glyph="H"/>
+          <Alternate glyph="H.001"/>
+          <Alternate glyph="H.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="I">
+          <Alternate glyph="I"/>
+          <Alternate glyph="I.001"/>
+          <Alternate glyph="I.002"/>
+          <Alternate glyph="I.003"/>
+        </AlternateSet>
+        <AlternateSet glyph="J">
+          <Alternate glyph="J"/>
+          <Alternate glyph="J.001"/>
+          <Alternate glyph="J.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="K">
+          <Alternate glyph="K"/>
+          <Alternate glyph="K.001"/>
+          <Alternate glyph="K.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="L">
+          <Alternate glyph="L"/>
+          <Alternate glyph="L.001"/>
+          <Alternate glyph="L.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="M">
+          <Alternate glyph="M"/>
+          <Alternate glyph="M.001"/>
+          <Alternate glyph="M.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="N">
+          <Alternate glyph="N"/>
+          <Alternate glyph="N.001"/>
+          <Alternate glyph="N.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="O">
+          <Alternate glyph="O"/>
+          <Alternate glyph="O.001"/>
+          <Alternate glyph="O.002"/>
+          <Alternate glyph="O.003"/>
+          <Alternate glyph="O.004"/>
+        </AlternateSet>
+        <AlternateSet glyph="P">
+          <Alternate glyph="P"/>
+          <Alternate glyph="P.001"/>
+          <Alternate glyph="P.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="Q">
+          <Alternate glyph="Q"/>
+          <Alternate glyph="Q.001"/>
+          <Alternate glyph="Q.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="R">
+          <Alternate glyph="R"/>
+          <Alternate glyph="R.001"/>
+          <Alternate glyph="R.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="S">
+          <Alternate glyph="S"/>
+          <Alternate glyph="S.001"/>
+          <Alternate glyph="S.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="T">
+          <Alternate glyph="T"/>
+          <Alternate glyph="T.001"/>
+          <Alternate glyph="T.002"/>
+          <Alternate glyph="T.003"/>
+        </AlternateSet>
+        <AlternateSet glyph="U">
+          <Alternate glyph="U"/>
+          <Alternate glyph="U.001"/>
+          <Alternate glyph="U.002"/>
+          <Alternate glyph="U.003"/>
+        </AlternateSet>
+        <AlternateSet glyph="V">
+          <Alternate glyph="V"/>
+          <Alternate glyph="V.001"/>
+          <Alternate glyph="V.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="W">
+          <Alternate glyph="W"/>
+          <Alternate glyph="W.001"/>
+          <Alternate glyph="W.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="X">
+          <Alternate glyph="X"/>
+          <Alternate glyph="X.001"/>
+          <Alternate glyph="X.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="Y">
+          <Alternate glyph="Y"/>
+          <Alternate glyph="Y.001"/>
+          <Alternate glyph="Y.002"/>
+        </AlternateSet>
+        <AlternateSet glyph="Z">
+          <Alternate glyph="Z"/>
+          <Alternate glyph="Z.001"/>
+          <Alternate glyph="Z.002"/>
+          <Alternate glyph="Z.003"/>
+        </AlternateSet>
+        <AlternateSet glyph="questiondown">
+          <Alternate glyph="questiondown"/>
+        </AlternateSet>
+      </AlternateSubst>
+    </Lookup>
+  </LookupList>
+</GSUB>
+</OTLayout>

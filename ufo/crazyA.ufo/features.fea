@@ -1,9 +1,51 @@
+#> languagesystem
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+#< languagesystem
 
 
 feature rand {
-    sub A from [A.001 A.002 ];
+    sub A from [A A.001 A.002 A.003];  
+    sub B from [B B.001 B.002];
+    sub C from [C C.001 C.002 C.003];
+    sub D from [D D.001 D.002];
+    sub E from [E E.001 E.002 E.003 E.004];
+    sub F from [F F.001 F.002 F.003];
+    sub G from [G G.001 G.002];
+    sub H from [H H.001 H.002];
+    sub I from [I I.001 I.002 I.003];
+    sub J from [J J.001 J.002];
+    sub K from [K K.001 K.002];
+    sub L from [L L.001 L.002];
+    sub M from [M M.001 M.002];
+    sub N from [N N.001 N.002];
+    sub O from [O O.001 O.002 O.003 O.004];
+    sub P from [P P.001 P.002];
+    sub Q from [Q Q.001 Q.002];
+    sub R from [R R.001 R.002];
+    sub S from [S S.001 S.002];
+    sub T from [T T.001 T.002 T.003];  
+    sub U from [U U.001 U.002 U.003];
+    sub V from [V V.001 V.002];
+    sub W from [W W.001 W.002];
+    sub X from [X X.001 X.002];
+    sub Y from [Y Y.001 Y.002];
+    sub Z from [Z Z.001 Z.002 Z.003];
+    sub comma from [comma comma.001];
+    sub eight from [eight eight.001 eight.002];
+    sub exclam from [exclam exclam.001];
+    sub five from [five five.001 five.002 five.003];
+    sub four from [four four.001 four.002];
+    sub nine from [nine nine.001 nine.002];
+    sub one from [one one.001 one.002];
+    sub question from [question question.001];
+    sub questiondown from [questiondown];
+    sub semicolon from [semicolon semicolon.001 semicolon.002];
+    sub seven from [seven seven.001 seven.002];
+    sub six from [six six.001 six.002];
+    sub three from [three three.001 three.002];
+    sub two from [two two.001 two.002];
+    sub zero from [zero zero.001 zero.002 zero.003];
 } rand;
 
-feature ss01 {
-    sub A by A.001;
-} ss01;
+
