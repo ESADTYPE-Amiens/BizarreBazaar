@@ -2,13 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>A</key>
-  <dict>
-    <key>Q</key>
-    <integer>-14</integer>
-    <key>quotesingle</key>
-    <integer>-20</integer>
-  </dict>
   <key>A.001</key>
   <dict>
     <key>V</key>
