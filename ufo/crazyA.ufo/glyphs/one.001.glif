@@ -1,32 +1,28 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.001" format="2">
-  <advance width="305"/>
-  <guideline x="-113" y="46" angle="18.4349" identifier="cAPmXf1nol"/>
-  <guideline x="166" y="491" angle="195.124" identifier="5Sk83ufMfc"/>
+  <advance width="461"/>
   <outline>
     <contour>
-      <point x="-20" y="185" type="line"/>
-      <point x="-20" y="0" type="line"/>
-      <point x="363" y="0" type="line"/>
-      <point x="363" y="185" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="689" type="line"/>
-      <point x="35" y="78" type="line"/>
-      <point x="308" y="78" type="line"/>
-      <point x="308" y="762" type="line"/>
-    </contour>
-    <contour>
-      <point x="-58" y="663" type="line"/>
-      <point x="-58" y="520" type="line"/>
-      <point x="82" y="520" type="line"/>
-      <point x="82" y="700" type="line"/>
+      <point x="58" y="185" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="441" y="185" type="line"/>
+      <point x="386" y="185" type="line"/>
+      <point x="386" y="762" type="line"/>
+      <point x="113" y="689" type="line"/>
+      <point x="113" y="688" type="line"/>
+      <point x="20" y="663" type="line"/>
+      <point x="20" y="520" type="line"/>
+      <point x="113" y="520" type="line"/>
+      <point x="113" y="185" type="line"/>
     </contour>
   </outline>
+  <guideline angle="18.4349" x="-35" y="46"/>
+  <guideline angle="195.124" x="244" y="491"/>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-02-10 15:55:41 +0000</string>
-    </dict>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2025-02-10 15:55:41 +0000</string>
+  </dict>
   </lib>
 </glyph>
