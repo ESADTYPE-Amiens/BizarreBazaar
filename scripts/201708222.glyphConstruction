@@ -1,0 +1,12 @@
+aacute = a + acute@center,x:top
+oacute = o + acute@center,x:top
+uacute = u + acute@center,x:top
+Aacute = A + acute@center,top
+
+aringacute = a + ring@center,top + acute@center,top ! 1, 0, 0, 1 # this is a note
+
+f_f_i = f & f + ring@center,bottom & i
+
+
+>m = ^ a, b
+>b = ^ n, o
