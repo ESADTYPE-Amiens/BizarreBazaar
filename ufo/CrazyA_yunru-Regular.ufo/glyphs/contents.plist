@@ -12,6 +12,8 @@
     <string>H_.glif</string>
     <key>H.001</key>
     <string>H_.001.glif</string>
+    <key>H.002</key>
+    <string>H_.002.glif</string>
     <key>N</key>
     <string>N_.glif</string>
     <key>N.001</key>
@@ -28,6 +30,8 @@
     <string>Z_.001.glif</string>
     <key>Z.002</key>
     <string>Z_.002.glif</string>
+    <key>Z.003</key>
+    <string>Z_.003.glif</string>
     <key>five</key>
     <string>five.glif</string>
     <key>five.001</key>
@@ -36,8 +40,6 @@
     <string>five.002.glif</string>
     <key>five.003</key>
     <string>five.003.glif</string>
-    <key>h</key>
-    <string>h.glif</string>
     <key>n</key>
     <string>n.glif</string>
     <key>n.001</key>
@@ -52,7 +54,5 @@
     <string>t.glif</string>
     <key>t.001</key>
     <string>t.001.glif</string>
-    <key>z</key>
-    <string>z.glif</string>
   </dict>
 </plist>
