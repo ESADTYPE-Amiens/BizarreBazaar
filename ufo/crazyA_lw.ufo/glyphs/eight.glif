@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight" format="2">
+  <advance width="569"/>
+  <unicode hex="0038"/>
+  <image fileName="C_apture d’écran 2025-02-10 153156.png" xScale="5.981262180529351" yScale="5.981262180529353" xOffset="-46.805560884974625" yOffset="-111.80480607082647"/>
+  <outline>
+    <contour>
+      <point x="217" y="354" type="curve"/>
+      <point x="164" y="236"/>
+      <point x="58" y="80"/>
+      <point x="58" y="0" type="curve"/>
+      <point x="475" y="0" type="line"/>
+      <point x="484" y="11" type="line"/>
+      <point x="508" y="-4" type="line"/>
+      <point x="549" y="31" type="line"/>
+      <point x="360" y="361" type="line"/>
+      <point x="528" y="701" type="line"/>
+      <point x="416" y="762" type="line"/>
+      <point x="289" y="492" type="line"/>
+      <point x="208" y="628" type="line"/>
+      <point x="306" y="645" type="line"/>
+      <point x="326" y="754" type="line"/>
+      <point x="149" y="754"/>
+      <point x="20" y="729"/>
+      <point x="20" y="707" type="curve"/>
+      <point x="20" y="673"/>
+      <point x="151" y="472"/>
+    </contour>
+    <contour>
+      <point x="291" y="253" type="line"/>
+      <point x="373" y="112" type="line"/>
+      <point x="230" y="115" type="line"/>
+    </contour>
+  </outline>
+</glyph>
