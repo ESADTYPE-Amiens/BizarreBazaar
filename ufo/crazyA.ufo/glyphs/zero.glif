@@ -40,7 +40,7 @@
       <point x="168" y="200"/>
     </contour>
     <contour>
-      <point x="300" y="263" type="move"/>
+      <point x="300" y="263" type="line"/>
       <point x="628" y="484" type="line"/>
     </contour>
     <contour>
