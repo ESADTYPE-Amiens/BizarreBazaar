@@ -1,0 +1,2 @@
+SIZE  = 320x432 
+MARGIN = 20mm
