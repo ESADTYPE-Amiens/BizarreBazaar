@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>C</key>
+  <string>C_.glif</string>
+  <key>C.alt</key>
+  <string>C_.alt.glif</string>
+  <key>C.alt1</key>
+  <string>C_.alt1.glif</string>
+  <key>C.alt2</key>
+  <string>C_.alt2.glif</string>
+  <key>I</key>
+  <string>I_.glif</string>
+  <key>I.alt</key>
+  <string>I_.alt.glif</string>
+  <key>I.alt1</key>
+  <string>I_.alt1.glif</string>
+  <key>I.alt2</key>
+  <string>I_.alt2.glif</string>
+  <key>O</key>
+  <string>O_.glif</string>
+  <key>O.alt</key>
+  <string>O_.alt.glif</string>
+  <key>O.alt1</key>
+  <string>O_.alt1.glif</string>
+  <key>O.alt2</key>
+  <string>O_.alt2.glif</string>
+  <key>O.alt3</key>
+  <string>O_.alt3.glif</string>
+  <key>U</key>
+  <string>U_.glif</string>
+  <key>U.alt</key>
+  <string>U_.alt.glif</string>
+  <key>U.alt1</key>
+  <string>U_.alt1.glif</string>
+  <key>U.alt2</key>
+  <string>U_.alt2.glif</string>
+  <key>six</key>
+  <string>six.glif</string>
+  <key>six.alt</key>
+  <string>six.alt.glif</string>
+  <key>six.alt1</key>
+  <string>six.alt1.glif</string>
+  <key>zero</key>
+  <string>zero.glif</string>
+  <key>zero.alt</key>
+  <string>zero.alt.glif</string>
+  <key>zero.alt1</key>
+  <string>zero.alt1.glif</string>
+  <key>zero.alt2</key>
+  <string>zero.alt2.glif</string>
+</dict>
+</plist>
