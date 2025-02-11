@@ -30,6 +30,12 @@
     <string>D_.002.glif</string>
     <key>E</key>
     <string>E_.glif</string>
+    <key>E.001</key>
+    <string>E_.001.glif</string>
+    <key>E.002</key>
+    <string>E_.002.glif</string>
+    <key>E.003</key>
+    <string>E_.003.glif</string>
     <key>F</key>
     <string>F_.glif</string>
     <key>F.001</key>
@@ -64,6 +70,10 @@
     <string>J_.002.glif</string>
     <key>K</key>
     <string>K_.glif</string>
+    <key>K.001</key>
+    <string>K_.001.glif</string>
+    <key>K.002</key>
+    <string>K_.002.glif</string>
     <key>L</key>
     <string>L_.glif</string>
     <key>L.001</key>
@@ -98,6 +108,10 @@
     <string>P_.002.glif</string>
     <key>Q</key>
     <string>Q_.glif</string>
+    <key>Q.001</key>
+    <string>Q_.001.glif</string>
+    <key>Q.002</key>
+    <string>Q_.002.glif</string>
     <key>R</key>
     <string>R_.glif</string>
     <key>R.001</key>
@@ -130,6 +144,12 @@
     <string>V_.001.glif</string>
     <key>V.002</key>
     <string>V_.002.glif</string>
+    <key>W</key>
+    <string>W_.glif</string>
+    <key>W.001</key>
+    <string>W_.001.glif</string>
+    <key>W.copy_1</key>
+    <string>W_.copy_1.glif</string>
     <key>X</key>
     <string>X_.glif</string>
     <key>X.001</key>
@@ -162,6 +182,10 @@
     <string>comma.001.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>eight.001</key>
+    <string>eight.001.glif</string>
+    <key>eight.002</key>
+    <string>eight.002.glif</string>
     <key>ellipsis</key>
     <string>ellipsis.glif</string>
     <key>exclam</key>
@@ -234,6 +258,10 @@
     <string>three.002.glif</string>
     <key>two</key>
     <string>two.glif</string>
+    <key>two.001</key>
+    <string>two.001.glif</string>
+    <key>two.002</key>
+    <string>two.002.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
     <key>zero.001</key>
