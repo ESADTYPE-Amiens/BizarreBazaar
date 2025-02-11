@@ -8,24 +8,72 @@
     <string>A_.001.glif</string>
     <key>A.002</key>
     <string>A_.002.glif</string>
+    <key>D</key>
+    <string>D_.glif</string>
+    <key>D.001</key>
+    <string>D_.001.glif</string>
+    <key>D.002</key>
+    <string>D_.002.glif</string>
+    <key>F</key>
+    <string>F_.glif</string>
+    <key>F.001</key>
+    <string>F_.001.glif</string>
+    <key>F.002</key>
+    <string>F_.002.glif</string>
     <key>G</key>
     <string>G_.glif</string>
     <key>G.001</key>
     <string>G_.001.glif</string>
     <key>G.002</key>
     <string>G_.002.glif</string>
+    <key>J</key>
+    <string>J_.glif</string>
+    <key>J.001</key>
+    <string>J_.001.glif</string>
+    <key>J.002</key>
+    <string>J_.002.glif</string>
+    <key>L</key>
+    <string>L_.glif</string>
+    <key>L.001</key>
+    <string>L_.001.glif</string>
+    <key>L.002</key>
+    <string>L_.002.glif</string>
     <key>M</key>
     <string>M_.glif</string>
     <key>M.001</key>
     <string>M_.001.glif</string>
     <key>M.002</key>
     <string>M_.002.glif</string>
+    <key>P</key>
+    <string>P_.glif</string>
+    <key>P.001</key>
+    <string>P_.001.glif</string>
+    <key>P.002</key>
+    <string>P_.002.glif</string>
+    <key>R</key>
+    <string>R_.glif</string>
+    <key>R.001</key>
+    <string>R_.001.glif</string>
+    <key>R.002</key>
+    <string>R_.002.glif</string>
     <key>S</key>
     <string>S_.glif</string>
     <key>S.001</key>
     <string>S_.001.glif</string>
     <key>S.002</key>
     <string>S_.002.glif</string>
+    <key>V</key>
+    <string>V_.glif</string>
+    <key>V.001</key>
+    <string>V_.001.glif</string>
+    <key>V.002</key>
+    <string>V_.002.glif</string>
+    <key>X</key>
+    <string>X_.glif</string>
+    <key>X.001</key>
+    <string>X_.001.glif</string>
+    <key>X.002</key>
+    <string>X_.002.glif</string>
     <key>Y</key>
     <string>Y_.glif</string>
     <key>Y.001</key>
@@ -40,5 +88,29 @@
     <string>four.002.glif</string>
     <key>g</key>
     <string>g.glif</string>
+    <key>nine</key>
+    <string>nine.glif</string>
+    <key>nine.001</key>
+    <string>nine.001.glif</string>
+    <key>nine.002</key>
+    <string>nine.002.glif</string>
+    <key>one</key>
+    <string>one.glif</string>
+    <key>one.001</key>
+    <string>one.001.glif</string>
+    <key>one.002</key>
+    <string>one.002.glif</string>
+    <key>seven</key>
+    <string>seven.glif</string>
+    <key>seven.001</key>
+    <string>seven.001.glif</string>
+    <key>seven.002</key>
+    <string>seven.002.glif</string>
+    <key>three</key>
+    <string>three.glif</string>
+    <key>three.001</key>
+    <string>three.001.glif</string>
+    <key>three.002</key>
+    <string>three.002.glif</string>
   </dict>
 </plist>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>A</key>
+    <string>A_.glif</string>
+    <key>A.001</key>
+    <string>A_.001.glif</string>
+    <key>A.002</key>
+    <string>A_.002.glif</string>
+    <key>G</key>
+    <string>G_.glif</string>
+    <key>G.001</key>
+    <string>G_.001.glif</string>
+    <key>G.002</key>
+    <string>G_.002.glif</string>
+    <key>M</key>
+    <string>M_.glif</string>
+    <key>M.001</key>
+    <string>M_.001.glif</string>
+    <key>M.002</key>
+    <string>M_.002.glif</string>
+    <key>S</key>
+    <string>S_.glif</string>
+    <key>S.001</key>
+    <string>S_.001.glif</string>
+    <key>S.002</key>
+    <string>S_.002.glif</string>
+    <key>Y</key>
+    <string>Y_.glif</string>
+    <key>Y.001</key>
+    <string>Y_.001.glif</string>
+    <key>Y.002</key>
+    <string>Y_.002.glif</string>
+    <key>four</key>
+    <string>four.glif</string>
+    <key>four.001</key>
+    <string>four.001.glif</string>
+    <key>four.002</key>
+    <string>four.002.glif</string>
+    <key>g</key>
+    <string>g.glif</string>
+  </dict>
+</plist>

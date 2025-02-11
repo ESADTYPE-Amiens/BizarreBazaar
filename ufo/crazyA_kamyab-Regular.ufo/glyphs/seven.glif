@@ -2,7 +2,7 @@
 <glyph name="seven" format="2">
   <advance width="251"/>
   <unicode hex="0037"/>
-  <guideline x="-349" y="466" angle="225"/>
+  <guideline x="-349" y="466" angle="225" identifier="kFq2OSnpGZ"/>
   <outline>
     <contour>
       <point x="-3" y="105" type="curve" smooth="yes"/>
