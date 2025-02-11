@@ -1,0 +1,9 @@
+
+
+feature rand {
+    sub A from [A.001 A.002 ];
+} rand;
+
+feature ss01 {
+    sub A by A.001;
+} ss01;
