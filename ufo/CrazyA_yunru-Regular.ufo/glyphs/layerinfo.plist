@@ -4,8 +4,10 @@
   <dict>
     <key>lib</key>
     <dict>
+      <key>GSOffsetCapStyle</key>
+      <integer>2</integer>
       <key>GSOffsetHorizontal</key>
-      <real>20.0</real>
+      <real>8.0</real>
       <key>GSOffsetMakeStroke</key>
       <true/>
       <key>GSOffsetProportional</key>
