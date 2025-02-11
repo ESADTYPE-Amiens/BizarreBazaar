@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q" format="2">
+  <advance width="500"/>
+  <unicode hex="0071"/>
+  <image fileName="Q_.png" xOffset="213" yOffset="258"/>
+  <outline>
+  </outline>
+</glyph>
